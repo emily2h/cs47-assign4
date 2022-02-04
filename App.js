@@ -16,10 +16,6 @@ import images from './Themes/images';
 import millisToMinutesAndSeconds from "./utils/millisToMinuteSeconds";
 import { Audio } from 'expo-av';
 
-// function setTestState(testInfo, component, status) {
-//   component.setState({tests: {...component.state.tests, [testInfo.title]: status}});
-// }
-
 
 // Endpoints for authorizing with Spotify
 const discovery = {
